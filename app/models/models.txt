@@ -1,0 +1,2 @@
+this will contain all the models related to our app
+Also using the models we can interact with the database
